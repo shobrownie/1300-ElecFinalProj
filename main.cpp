@@ -1,4 +1,4 @@
-//Shoshana Brown, CSCI1300 - Sect. 310, Final Project
+//sbrown sect. 310
 //Main function
 #include <fstream>
 #include "ElecUser.h"
