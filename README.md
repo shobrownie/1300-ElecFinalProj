@@ -2,8 +2,7 @@
 
 
 This program allows the user to find out demographic details about a certain population based on gender and userID criteria, as well as performing calculations of electricity consumption based on the demographic and electricity data collected from that population for 31 days.
-It is dependent on the electricity and demographic data files given to us.
-
+It is dependent on the electricity and demographic data files included.  
 When the program is first run, it prints out a menu that the user can choose from.  There are 6 different options for different operations the program can perform while interacting with the demographic and electricity usage date provided in the .csv files
 
 
