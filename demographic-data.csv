@@ -1,0 +1,14 @@
+UserID	Gender	SmartMeter	Occupation	Occupation Type	WorkFromHome	MonthsInResidence	Residence Type	Type of Occupancy	Number of Occupants in Residence	Approximate Square Footage of Residence	Number of Bedrooms	Number of Bathrooms	Central Air	Window A/C Units	Swamp Cooler	Ceiling Fans	Floor Fans	Portable Air Conditioner
+21	Male	Yes	Software Engineer	STEM	Yes	11.75	Townhouse	Own	3	1400	3	2.5	Yes	No	No	Yes	No	No
+22	Female	Yes	Scientist	STEM	No	10.75	Townhouse	Own	2	2000	3	2.5	No	No	No	Yes	No	No
+23	Female	Yes	Geologist	STEM	No	11	House	Own	2	3000	4	1.75	No	No	No	Yes	Yes	No
+24	Male	Yes	VP Technology	STEM	No	74.75	House	Own	4	1800	4	2	Yes	No	No	No	No	No
+25	Female	Yes	art	Non-STEM	Yes	133.75	House	Own	3	2098	3	1	Yes	No	No	Yes	No	No
+28	Male	Yes	retired	STEM	Yes	35.75	Townhouse	Own	2	1500	3	2.5	No	No	No	No	No	No
+29	Male	Yes	Graduate Student	STEM	No	11.75	Townhouse	Rent	2	1100	2	1	No	Yes	No	No	Yes	Yes
+32	Male	Yes	consultant	Non-STEM	Yes	121.75	House	Own	4	2700	4	4	Yes	No	No	Yes	No	No
+35	Female	Yes	engineer	STEM	Yes	11.25	Apartment	Rent	2	450	1	1	Yes	No	No	Yes	No	No
+36	Female	Yes	Early Childhood Educator	Non-STEM	No	19.75	Apartment	Own	2	500	1	1	Yes	No	No	No	Yes	No
+37	Female	No	ADMIN.	Non-STEM	No	9.25	Townhouse	Own	2	924	2	1	No	No	No	Yes	Yes	Yes
+38	Female	No	Architect	STEM	Yes	11.75	Townhouse	Own	2	1350	2	2.5	Yes	No	No	No	No	No
+39	Male	No	R&D Engineer	STEM	No	95.75	House	Own	2	1600	3	1	No	No	Yes	No	Yes	No
